@@ -33,6 +33,6 @@ I am always open to collaborating on projects. Find out more about me & feel fre
 
 ![Shlomo'sGithub Stats](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&hide=TeX&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&hide=TeX&layout=compact&langs_count=8&count_private=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
