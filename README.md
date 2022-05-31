@@ -31,8 +31,8 @@ I am always open to collaborating on projects. Find out more about me & feel fre
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
-![Shlomo'sGithub Stats](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true)
+![Shlomo'sGithub Stats](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&hide=TeX&layout=compact&langs_count=8&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=false&hide=TeX&layout=compact&langs_count=8)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
