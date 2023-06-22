@@ -6,7 +6,7 @@
 - 💬 Ask me about ...
 -->
 
-Hello, I'm Shlomo, currently I am a Senior at [Stevens Institute of Technology](https://www.stevens.edu/), studying Computer Science, with a focus on Machine Learning and Mathematics.
+Hello, I'm Shlomo, I focus on Machine Learning and Mathematics.
 
 I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
 
