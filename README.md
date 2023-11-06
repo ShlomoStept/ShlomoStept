@@ -6,7 +6,7 @@
 - 💬 Ask me about ...
 -->
 
-Hello, I'm Shlomo, Currently i'm a dedicated Full-Stack ML Engineer, focused on building Darmis.
+Hello, I'm Shlomo, a dedicated Full-Stack ML Engineer, focused on building Darmis.
 
 Feel free to connect with me here
 
