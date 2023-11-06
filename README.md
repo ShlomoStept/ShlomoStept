@@ -6,9 +6,9 @@
 - 💬 Ask me about ...
 -->
 
-Hello, I'm Shlomo, I focus on Machine Learning and Mathematics.
+Hello, I'm Shlomo, Currently i'm a dedicated Full-Stack ML Engineer, focused on building Darmis.
 
-I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
+Feel free to connect with me here
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShlomoStept-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomo-stept/)](https://www.linkedin.com/in/shlomo-stept/)
 [![Website](https://img.shields.io/badge/Website-shlomostept.com-informational?style=for-the-badge&logo=tidal&logoColor=black)](https://www.shlomostept.com/)
