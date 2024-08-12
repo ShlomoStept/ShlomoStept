@@ -31,9 +31,44 @@ Feel free to connect with me here
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
-![Shlomo'sGithub Stats](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+<!-- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=false&hide=TeX&layout=compact&langs_count=8)
+
+<a href="https://github.com/ShlomoStept/README.md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
+</a>
+<a href="https://github.com/ShlomoStept/README.md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+</a>
+<!-- <a href="https://github.com/ShlomoStept/README.md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyter%20notebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+</a> -->
+
+
+
+<!-- 
+![Shlomo's Github Stats](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+-->
+<!-- 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=false&hide=TeX&layout=compact&langs_count=8&theme=transparent)
+-->
+<!-- 
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=false&hide=TeX&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+</a>
+-->
+
+<br /> 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
 
