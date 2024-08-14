@@ -41,10 +41,10 @@ Feel free to connect with me here
 -->
 
 
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
+<a href="[https://github.com/ShlomoStept/README.md](https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
-<a href="https://github.com/ShlomoStept/README.md">
+<a href="[https://github.com/ShlomoStept/README.md](https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
 </a>
 <!-- <a href="https://github.com/ShlomoStept/README.md">
