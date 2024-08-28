@@ -23,8 +23,8 @@ Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, singl
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 
 ### Databases
@@ -60,9 +60,6 @@ Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, singl
 
 
 
-
-# OKKKK
-----------
 
 
 
