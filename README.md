@@ -1,13 +1,18 @@
-# Hi there, I'm Shlomo
+# Hi there, I'm Shlomo 👋
 
-Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, single image super resolution, OCR models, and full-stack development. Contributing to research in natural language processing and summarization.
 
-## Connect with me
+Full-Stack ML Engineer turned Founder, on a mission to "make something people want".
+
+Previously, I built and trained custom LLMs, OCR and single image super resolution models, and worked as a ML Engineer and full-stack Developer.
+
+Current focus: Translating AI breakthroughs into full-stack applications that solve real-world problems.
+
+## Connect with me 🔗
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShlomoStept-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomo-stept/)](https://www.linkedin.com/in/shlomo-stept/)
 [![Website](https://img.shields.io/badge/Website-shlomostept.com-informational?style=for-the-badge&logo=tidal&logoColor=black)](https://www.shlomostept.com/)
 
-## Technologies & Tools
+## 💻 Technologies & Tools
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -45,7 +50,7 @@ Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, singl
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <a href="https://github.com/ShlomoStept/README.md">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
@@ -69,6 +74,7 @@ Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, singl
 # Hi there, I'm Shlomo 👋
 
 I'm a dedicated Full-Stack ML Engineer, focused on building Darmis.
+
 
 ## 🔗 Connect with me
 
@@ -142,6 +148,8 @@ I'm a dedicated Full-Stack ML Engineer, focused on building Darmis.
 
 <!--
 **ShlomoStept/ShlomoStept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, single image super resolution, OCR models, and full-stack development. Contributing to research in natural language processing and summarization.
 
 Here are some ideas to get you started:
 
