@@ -1,11 +1,17 @@
-# Hi there, I'm Shlomo 👋
+## Applied ML Engineer and Builder
+- I work on production AI applications, consult with small businesses on technical integration, and maintain several projects across machine learning and systems architecture.
 
+## Current Technical Focus
 
-Full-Stack ML Engineer turned Founder, on a mission to "make something people want".
+- Document Processing: Building applications that extract structure from unstructured documents—forms, PDFs, scanned records—and integrate that information into existing business systems. Involves custom model training, API design, deployment infrastructure.
 
-Previously, I built and trained custom LLMs, OCR and single image super resolution models, and worked as a ML Engineer and full-stack Developer.
+- Workflow Automation: ML-powered systems that route information, trigger actions, and orchestrate business processes. Focus on practical integration rather than proof-of-concept demonstrations.
 
-Current focus: Translating AI breakthroughs into full-stack applications that solve real-world problems.
+- Evaluation and Tooling: Open-source projects in document summarization and language model evaluation. Infrastructure for training, testing, and deploying production ML systems.
+
+## Broader Interests
+- Beyond ML implementation: probability and decision theory, market microstructure, betting and forecasting, systems design, early-stage startup dynamics. Particularly interested in reasoning about uncertainty, architectural tradeoffs, and when to apply complex methods versus simpler heuristics.
+
 
 ## Connect with me 🔗
 
