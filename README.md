@@ -1,170 +1,68 @@
-## Applied ML Engineer and Builder
-- I work on production AI applications, consult with small businesses on technical integration, and maintain several projects across machine learning and systems architecture.
+## ML Engineer & Full-Stack Developer
 
-## Current Technical Focus
+Building production AI systems and modern web applications. I work across the full stack—from training ML models to deploying cloud-native applications with edge infrastructure.
 
-- Document Processing: Building applications that extract structure from unstructured documents—forms, PDFs, scanned records—and integrate that information into existing business systems. Involves custom model training, API design, deployment infrastructure.
+## What I'm Working On
 
-- Workflow Automation: ML-powered systems that route information, trigger actions, and orchestrate business processes. Focus on practical integration rather than proof-of-concept demonstrations.
+**Document Intelligence** — End-to-end pipelines for extracting structure from unstructured documents. OCR, table detection, entity extraction, and integration with business systems. Custom model training and production deployment.
 
-- Evaluation and Tooling: Open-source projects in document summarization and language model evaluation. Infrastructure for training, testing, and deploying production ML systems.
+**Full-Stack Applications** — Modern web and desktop apps using React, Next.js, TanStack Start, and Tauri. Cloud-native architectures with Cloudflare Workers, Supabase, and edge-first deployment patterns.
+
+**ML Evaluation & Tooling** — Open-source infrastructure for model evaluation and document processing. See [darmis_utils](https://github.com/ShlomoStept/darmis_utils) for evaluation utilities and testing frameworks.
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=fff)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=fff)
+
+### Backend & APIs
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+
+### Data & Storage
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare%20D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Desktop
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=fff)
+
+### ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ## Broader Interests
-- Beyond ML implementation: probability and decision theory, market microstructure, betting and forecasting, systems design, early-stage startup dynamics. Particularly interested in reasoning about uncertainty, architectural tradeoffs, and when to apply complex methods versus simpler heuristics.
 
+Probability and decision theory, market microstructure, systems design, early-stage startup dynamics. Particularly interested in reasoning about uncertainty, architectural tradeoffs, and when to apply complex methods versus simpler heuristics.
 
-## Connect with me 🔗
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShlomoStept-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomo-stept/)](https://www.linkedin.com/in/shlomo-stept/)
-[![Website](https://img.shields.io/badge/Website-shlomostept.com-informational?style=for-the-badge&logo=tidal&logoColor=black)](https://www.shlomostept.com/)
-
-## 💻 Technologies & Tools
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/java-%23FA7343.svg?style=flat-square&logo=java&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-
-### Databases
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-
-### DevOps & Cloud
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-
-### Other Tools
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
-
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
-</a>
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
-</a>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
-
-
-
-
-
-
-
-
-
-
-<!--
-# Hi there, I'm Shlomo 👋
-
-I'm a dedicated Full-Stack ML Engineer, focused on building Darmis.
-
-
-## 🔗 Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-ShlomoStept-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomo-stept/)](https://www.linkedin.com/in/shlomo-stept/)
-[![Website](https://img.shields.io/badge/Website-shlomostept.com-informational?style=for-the-badge&logo=tidal&logoColor=black)](https://www.shlomostept.com/)
-
-## 💻 Technologies & Tools
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23FA7343.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
-
-### DevOps & Cloud
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-
-### Other Tools
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)
-![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff)
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
-</a>
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
-</a>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
-
-<!--
-**ShlomoStept/ShlomoStept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Full-Stack ML Engineer focused on building Darmis. Working on custom LLMs, single image super resolution, OCR models, and full-stack development. Contributing to research in natural language processing and summarization.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ShlomoStept-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlomo-stept/)
+[![Website](https://img.shields.io/badge/Website-shlomostept.com-informational?style=flat-square&logo=googlechrome&logoColor=white)](https://www.shlomostept.com/)
