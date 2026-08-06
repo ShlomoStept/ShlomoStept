@@ -58,12 +58,17 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
+<a href="https://github.com/ShlomoStept">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=ShlomoStept&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
-<a href="https://github.com/ShlomoStept/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,jupyternotebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+<a href="https://github.com/ShlomoStept">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShlomoStept&count_private=true&hide=TeX,Jupyter%20Notebook&layout=compact&langs_count=8&theme=transparent&card_width=320" />
 </a>
+
+
+<!-- <img src="https://streak-stats.demolab.com?user=ShlomoStept&theme=transparent" alt="streak" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shlomostept&theme=blueberry&card_width=420&card_height=200" alt="GitHub Streak" /></a> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShlomoStept.ShlomoStept)
 
